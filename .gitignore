@@ -1,4 +1,8 @@
 brainstorming
+# Imported or generated files
 *.csv
 *.pdf
 *.txt
+
+# Python virtual environment
+.venv/
